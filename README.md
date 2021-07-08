@@ -1,6 +1,6 @@
 # ECU Summer Ventures Jupyter Notebooks for Image Processing in Python
 
-This repository contains Jupyter notebooks that use *Python* to do basic image processing including importing RAW and other image files, separating color channels, and computing spacial Fourier transfroms and power spectra of color data.
+This repository contains Jupyter notebooks that use *Python* to do basic image processing including importing RAW and other image files, separating color channels, and computing spatial Fourier transfroms and power spectra of color data.
 
 ## Run on your computer
 
