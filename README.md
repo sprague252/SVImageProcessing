@@ -12,9 +12,17 @@ You must have `python3`, `numpy`, `matplotlib`, `rawpy` (install this with `pip`
 
 Once you have everything configured, start Jupyter Notebook or Jupyter Lab and open the notebook `Image Processing.ipynb`. 
 
-## Run on CoCalc
+## Run on Google Colab
 
-The files should be already installed in your [CoCalc](https://cocalc.com) Summer Ventures project. (Look in Handouts.) If not, you can open a Linux terminal and run the `git` command in the previous section to copy them. Once you have the files, open `Image Processing.ipynb` in CoCalc. Be sure to set the kernel to `Python 3 (system-wide)` because that contains all of the modules you will need.
+<a target="_blank" href="https://colab.research.google.com/github/sprague252/SVImageProcessing/blob/master/ImageProcessingColabSetUp.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+The easiest way to run these notebooks is to use [Google Colab](https://colab.research.google.com/), which will use computers in the Google cloud to run the Python code. In order to do this, you must have a Google account with sufficient space on your Google Drive. 
+
+In order to run these files on Colab, open the notebook `ImageProcessingColabSetUp.ipynb` and run the commands in Colab. You can do open the notebook with the following link.
+
+[Open ImageProcessingColabSetUp.ipynb on Google Colab.](https://colab.research.google.com/github/sprague252/SVImageProcessing/blob/master/ImageProcessingColabSetUp.ipynb)
 
 ## Run on Binder
 
